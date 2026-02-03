@@ -4,13 +4,14 @@
 上一页：
 下一页：
 关键词：
-相关链接：[[n8n常用APP的账户凭据及访问令牌]]
+相关链接：
 
 ---
 
+# 【重要性】
   
 [AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草](https://www.youtube.com/watch?v=rgU0mbVpg0k)
-![image.png](https://repo.in4tree.com/2026/01/31_1769847012854.png)
+
 
 
 
@@ -150,9 +151,10 @@ Http请求触发（On Webhook Call）
 
 ## （云）Google Sheet
 ## （云）Notion
+## ！！（云）Airtable ：内置了极其强大的自动化工作流功能
 ## （云）飞书
 
-## （云、本地）nocodb：n8n自动化工作流的最佳搭档！
+## ！！！（云、本地）nocodb：n8n自动化工作流的最佳搭档！
 
 https://www.youtube.com/watch?v=czakQmd2NGI
 ![image.png](https://repo.in4tree.com/2026/01/31_1769846755073.png)
@@ -265,7 +267,7 @@ https://www.youtube.com/watch?v=cVPD2AFlLIs
 
 https://www.youtube.com/watch?v=hLS5nwCoGeg
 
-### ！！！群晖NAS外网穿透：Tailscale安全快速的远程NAS访问（比群晖的connectID快很多！）
+### ！！！群晖NAS内网穿透：Tailscale安全快速的远程NAS访问（比群晖的connectID快很多！）
 
 添加群晖套件Tailscale，注册运行Tailscale
 ![image.png](https://repo.in4tree.com/2026/01/31_1769898750115.png)
@@ -273,7 +275,7 @@ https://www.youtube.com/watch?v=hLS5nwCoGeg
 这样在外网的任何设备，只要同样安装了Tailscale，就可以外网访问了。
 
 
-# 外网穿透（隧道）：项目同步、Google认证、Webhook回调URL
+# 内网穿透（隧道）：项目同步、Google认证、Webhook回调URL
 
 外网直连本地n8n工作流：零成本，3分钟搞定n8n内网穿透 | 新手必看！
 https://www.youtube.com/watch?v=3LZRQbSygRw
@@ -281,7 +283,7 @@ https://www.youtube.com/watch?v=3LZRQbSygRw
 隧道服务：Cloudfare、花生壳、蒲公英（收费！）
 
 
-## 外网穿透：Cloudfare域名的隧道功能（反向代理）
+## 内网穿透：Cloudfare域名的隧道功能（反向代理）
 
 外网直连本地n8n工作流：零成本，3分钟搞定n8n内网穿透 | 新手必看！
 https://www.youtube.com/watch?v=3LZRQbSygRw
@@ -290,7 +292,7 @@ https://www.youtube.com/watch?v=3LZRQbSygRw
 https://www.youtube.com/watch?v=zWJ4nC6lR7M
 
 
-## 外网穿透：ngrok的隧道功能（反向代理）二级域名！
+## 内网穿透：ngrok的隧道功能（反向代理）二级域名！
 https://www.youtube.com/watch?v=EEXz30eUmqE
 
 ngrok可以帮我们建立一个隧道
@@ -323,7 +325,9 @@ https://n8n.io/workflows
 #  ？？？【开发第三方节点】
 
 
+---
 
+# ？？？【调试、错误处理】
 
 
 ---

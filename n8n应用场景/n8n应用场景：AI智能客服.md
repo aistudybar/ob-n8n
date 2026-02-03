@@ -4,13 +4,20 @@
 上一页：
 下一页：
 关键词：
-相关链接：[[n8n应用场景：知识库RAG]]
+相关链接：[[n8n应用场景：知识库（RAG）]]
 
 ---
 
+？？？ChatGPT 已經落伍了！3 步驟用 Make + Flowise 打造超越人工的 AI LINE Bot
+https://www.youtube.com/watch?v=ZOFc_lUTgmg
+
+
 # AI智能客服
 
-  
+
+n8n搭建RAG系统：构建超灵活知识库 + 全能AI客服！本地部署+实战！
+https://www.youtube.com/watch?v=LOWYPjSmFi4
+ 
 ！！！超实用n8n工作流：打造全能AI客服！个人网站 + 聊天软件 + 电子邮件，一次全搞定！
 https://www.youtube.com/watch?v=EEXz30eUmqE
 
@@ -20,7 +27,7 @@ https://www.youtube.com/watch?v=EEXz30eUmqE
 
 
 
-ngrok反向代理工具实现外网穿透
+ngrok反向代理工具实现内网穿透
 https://www.youtube.com/watch?v=EEXz30eUmqE
 
 ngrok可以帮我们建立一个隧道

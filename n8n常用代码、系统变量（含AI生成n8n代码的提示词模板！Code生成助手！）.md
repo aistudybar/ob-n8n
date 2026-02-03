@@ -8,6 +8,15 @@
 
 ---
 
+# Code生成助手
+
+https://www.youtube.com/watch?v=L5fIjj7hOss
+
+# 技巧：表达式的固定参数到右侧
+
+
+---
+
 # 【数据提取】
 ## 提取前5条数据
 

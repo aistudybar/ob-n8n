@@ -8,7 +8,10 @@
 
 ---
 
-  
+youtube.com/watch?v=8nKTYre0kG8&t=636s&pp=ygUKbjhuIOWbvueJhw%3D%3D
+
+youtube.com/watch?v=KtLjes4VL5Q&pp=ygUKbjhuIOWbvueJh9IHCQmRCgGHKiGM7w%3D%3D
+
 # 【n8n应用：网页内容抓取】Webhook（资讯网页URL）、AI生成150字摘要、推特文案（少于280字）、生成Linkedin专业语气版本、写入Notion、发送Telegram
 
 https://www.youtube.com/watch?v=VFw6l8oCxGc
