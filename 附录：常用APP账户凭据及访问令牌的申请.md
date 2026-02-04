@@ -8,9 +8,14 @@
 
 ---
 
+
+
+---
+
 ？？？一个视频搞定！n8n 接入 Google 全家桶：Sheets、Drive、Gmail、YouTube、Doc、Calendar！凭证配置+节点使用！
 https://www.youtube.com/watch?v=X1v0GcvrvQs
 
+---
 
 # ？？？Google oAuth（Redirect URL、Client ID、Client Secret）
 
