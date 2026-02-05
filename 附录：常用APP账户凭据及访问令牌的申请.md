@@ -21,6 +21,11 @@ https://www.youtube.com/watch?v=X1v0GcvrvQs
 
 > 注意：使用NAS的localhost或IP地址申请Google凭据的oAuth时会出错！因为安全原因，谷歌只接受localhost或域名，不接受IP！
 
+一个视频搞定！n8n 接入 Google 全家桶：Sheets、Drive、Gmail、YouTube、Doc、Calendar！凭证配置+节点使用！
+https://www.youtube.com/watch?v=X1v0GcvrvQs
+
+  
+NAS終極玩法：自建效率神器 n8n，免費無痛實現 Google 授權 與內網穿透 | 打造全自動 AI 新聞聚合 + 郵件發送
 https://www.youtube.com/watch?v=hLS5nwCoGeg
 
 ![image.png](https://repo.in4tree.com/2026/01/31_1769897372278.png)
